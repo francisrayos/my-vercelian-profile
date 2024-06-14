@@ -10,3 +10,5 @@ Once you've done that, we recommend the following steps:
 This is a TEST COMMIT.
 
 This is a TEST COMMIT #2.
+
+This is a TEST COMMIT #3.
